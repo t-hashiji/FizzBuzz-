@@ -1,5 +1,25 @@
 # fizz-buzz-hackathon
 
+## Content of the assignment
+It outputs numbers from 1 to 100, outputs "Fizz" instead of numbers when it is a multiple of 3, "Buzz" when it is a multiple of 5, and "FizzBuzz" when it is a multiple of both 3 and 5. Is output. It was
+
+## Clearing conditions
+The standard output should be correct as Fizz, Buzz, FizzBuzz.
+
+## Programming language used
+・ Java
+
+## How to move
+・ Move to [dokojava] (https://dokojava.jp/sources/Main.java)
+・ Enter the source code
+・ Click Compile
+・ Click Execute
+
+Created source code  
+
+# 以下日本語表記の場合
+僕は日本語でドキュメントを書かないので一般的な表現からずれている可能性があるので参考までに。
+
 ## 課題内容
 1から100までの数を出力していき、3の倍数のときは数の代わりに｢Fizz｣、5の倍数のときは｢Buzz｣と出力し、3と5両方の倍数の場合に「FizzBuzz」と出力する。　　
 
