@@ -1,6 +1,7 @@
 # FizzBuzz-issue
 
 概要
+1から100までの数を出力していき、3の倍数のときは数の代わりに｢Fizz｣、5の倍数のときは｢Buzz｣と出力し、3と5両方の倍数の場合に「FizzBuzz」と出力する。　　
 
 ## Deacription
 詳細の説明
@@ -14,6 +15,7 @@
 ・ソースコードを入力  
 ・コンパイルをクリック  
 ・実行をクリック  
+↓ソースコード  
 ```bash
 public class Main{
  public static void main(String[] args){
