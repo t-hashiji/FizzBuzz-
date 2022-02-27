@@ -10,7 +10,7 @@
 ・Java
 
 ## 動かし方  
-・[dokojava](https://dokojava.jp/sources/Main.java)を開く  
+・[dokojava](https://dokojava.jp/sources/Main.java)へ移動  
 ・ソースコードを入力  
 ・コンパイルをクリック  
 ・実行をクリック  
