@@ -15,7 +15,26 @@ The standard output should be correct as Fizz, Buzz, FizzBuzz.
 ・ Click Compile  
 ・ Click Execute  
 
-Created source code  
+Created source code
+```bash
+public class Main{
+ public static void main(String[] args){
+  int i=1;
+  do{
+   if(i%3==0 && i%5==0){
+    System.out.println("FizzBuzz");
+   }else if(i%3==0){
+    System.out.println("Fizz");
+   }else if(i%5==0){
+    System.out.println("Buzz");
+   }else{
+    System.out.println(i);
+   }
+   i++;
+  }while(i<100);
+ }
+}
+```
 
 # 以下日本語表記の場合
 僕は日本語でドキュメントを書かないので一般的な表現からずれている可能性があるので参考までに。
