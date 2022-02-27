@@ -9,7 +9,7 @@
 用途
 
 ## Install
-インストール方法
+インストール方法  
 
 [リンク先](https://wa3.i-3-i.info/word18535.html)
 
