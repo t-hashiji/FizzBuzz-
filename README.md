@@ -11,5 +11,5 @@
 ## Install
 インストール方法
 
-[リンク先](C:\Users\t_has\OneDrive\デスクトップ)
+[リンク先](https://wa3.i-3-i.info/word18535.html)
 
