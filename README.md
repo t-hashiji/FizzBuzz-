@@ -10,10 +10,10 @@ The standard output should be correct as Fizz, Buzz, FizzBuzz.
 ・ Java
 
 ## How to move
-・ Move to [dokojava](https://dokojava.jp/sources/Main.java)  
-・ Enter the source code  
-・ Click Compile  
-・ Click Execute  
+1. Move to [dokojava](https://dokojava.jp/sources/Main.java)  
+2. Enter the source code  
+3. Click Compile  
+4. Click Execute  
 
 Created source code
 ```bash
@@ -50,10 +50,10 @@ public class Main{
 ・Java
 
 ## 動かし方  
-・[dokojava](https://dokojava.jp/sources/Main.java)へ移動  
-・ソースコードを入力  
-・コンパイルをクリック  
-・実行をクリック  
+1.[dokojava](https://dokojava.jp/sources/Main.java)へ移動  
+2.ソースコードを入力  
+3.コンパイルをクリック  
+4.実行をクリック  
 
 作成したソースコード
 ```bash
