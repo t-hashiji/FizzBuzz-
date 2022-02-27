@@ -10,10 +10,10 @@ The standard output should be correct as Fizz, Buzz, FizzBuzz.
 ・ Java
 
 ## How to move
-・ Move to [dokojava] (https://dokojava.jp/sources/Main.java)
-・ Enter the source code
-・ Click Compile
-・ Click Execute
+・ Move to [dokojava](https://dokojava.jp/sources/Main.java)  
+・ Enter the source code  
+・ Click Compile  
+・ Click Execute  
 
 Created source code  
 
