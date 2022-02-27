@@ -36,7 +36,7 @@ public class Main{
 }
 ```
 
-# 以下日本語表記の場合
+## 以下日本語表記の場合
 
 # fizz-buzz-hackathon
 
