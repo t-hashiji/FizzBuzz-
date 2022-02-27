@@ -13,6 +13,10 @@
 
 [リンク先](https://wa3.i-3-i.info/word18535.html)
 
-## How to Lun
+## a
+*必要な要件*
+JAVA
+
+## How to run
 動かし方
 
